@@ -8,4 +8,8 @@ public class Main {
     {
         System.out.println("This is a tets");
     }
+    public static void test1()
+    {
+        System.out.println("This is a tets1");
+    }
 }
